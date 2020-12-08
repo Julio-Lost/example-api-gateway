@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Ocelot" Version="15.0.6"/>
+    <PackageReference Include="MMLib.SwaggerForOcelot" Version="2.6.1"/>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="Properties\launchSettings.json"/>
+    <Content Remove="configuration.Development.json"/>
+  </ItemGroup>
+</Project>

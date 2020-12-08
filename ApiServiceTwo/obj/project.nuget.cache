@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "k5pDILi84833a58hLoSz4G8gCcMoKY5hSv6gsoOnxpDFrmbnl/KMnsky9hIHw5HYE83gLjOFVa87zr3lM7vyIA==",
+  "success": true,
+  "projectFilePath": "/Users/juliocesar/Projects/ExampleApiGateway/ApiServiceTwo/ApiServiceTwo.csproj",
+  "expectedPackageFiles": [
+    "/Users/juliocesar/.nuget/packages/microsoft.openapi/1.1.4/microsoft.openapi.1.1.4.nupkg.sha512",
+    "/Users/juliocesar/.nuget/packages/swashbuckle.aspnetcore.swagger/5.3.3/swashbuckle.aspnetcore.swagger.5.3.3.nupkg.sha512",
+    "/Users/juliocesar/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.3.3/swashbuckle.aspnetcore.swaggergen.5.3.3.nupkg.sha512",
+    "/Users/juliocesar/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.3.3/swashbuckle.aspnetcore.swaggerui.5.3.3.nupkg.sha512",
+    "/Users/juliocesar/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

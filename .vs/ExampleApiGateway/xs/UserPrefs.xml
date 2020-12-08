@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{701E794D-F3B9-4983-B42F-73B08637D353}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.ItemProperties.Service1.ApiServiceOne PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ApiGateway/Startup.cs">
+    <Files>
+      <File FileName="ApiGateway/Startup.cs" Line="28" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExampleApiGateway" expanded="True">
+            <Node name="Service1" expanded="True">
+              <Node name="ApiServiceOne" expanded="True" />
+            </Node>
+            <Node name="Service2" expanded="True">
+              <Node name="ApiServiceTwo" expanded="True" />
+            </Node>
+            <Node name="ApiGateway" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Service2.ApiServiceTwo FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ApiGateway PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
