@@ -10,7 +10,8 @@
         }
       ],
       "UpstreamPathTemplate": "/api1/{everything}",
-      "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ]
+      "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ],
+      "SwaggerKey": "ApiOne"
     },
     {
       "DownstreamPathTemplate": "/{everything}",
@@ -22,7 +23,8 @@
         }
       ],
       "UpstreamPathTemplate": "/api2/{everything}",
-      "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ]
+      "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ],
+      "SwaggerKey": "ApiTwo"
     }
   ],
   "SwaggerEndPoints": [
