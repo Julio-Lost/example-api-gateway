@@ -1,9 +1,6 @@
 ﻿<Properties StartupConfiguration="{701E794D-F3B9-4983-B42F-73B08637D353}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
   <MonoDevelop.Ide.ItemProperties.Service1.ApiServiceOne PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ApiGateway/Startup.cs">
-    <Files>
-      <File FileName="ApiGateway/Startup.cs" Line="29" Column="29" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -18,7 +15,7 @@
               <Node name="Dependencies" expanded="True">
                 <Node name="PackageDependencies" expanded="True" />
               </Node>
-              <Node name="Startup.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
